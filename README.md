@@ -4,7 +4,7 @@ KLMS의 영상을 보지 않고도 진도율을 100%로 만들고, 이후 배속
 
 ## 사용 방법
 
-`chrome://extensions` (또는 MS Edge의 경우에 `edge://extensions`)에 접속한 후, [klms-unlocker.zip](https://github.com/kimkanu/klms-unlocker/releases)을 드래그/드롭하여 설치합니다. 그 후 KLMS의 강의 영상을 열면 됩니다.
+`chrome://extensions` (또는 MS Edge의 경우에 `edge://extensions`)에 접속한 후, 개발자 모드 토글을 클릭하여 활성화합니다. 그 다음 [klms-unlocker.zip](https://github.com/kimkanu/klms-unlocker/releases/download/v1.0/klms-unlocker.zip)을 드래그/드롭하여 설치합니다. 그 후 KLMS의 강의 영상을 열면 됩니다.
 
 ## TODO
 
